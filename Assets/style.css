@@ -1,0 +1,43 @@
+#yellow {
+  height: 100px; 
+}
+
+#blue {
+  height: 100px; 
+
+}
+
+#red {
+  height: 100px; 
+
+}
+
+#green {
+  height: 100px; 
+
+}
+
+body {
+  background-color:#2980b9
+}
+
+.container {
+  background-color: white; 
+  align-content: center; 
+}
+
+.jumbotron {
+  align-content: center; 
+}
+
+p {
+  background-color: white; 
+}
+
+#wins {
+  color: red; 
+}
+
+#number {
+  height: 5em; 
+}
